@@ -1,6 +1,6 @@
 # Allwinner-V3s-OpenWrt-Image
 全志 V3s开发板硬件设计与 OpenWrt 系统集成方案，包含 SDIO Wi-Fi 驱动加载与固件修复指南。 / Hardware design and OpenWrt integration for Allwinner V3s with RTL8723BS module.
-本项目适用于https://oshwhub.com/a-ordinary-people/project_lywsnqgn的开源设计
+本项目适用于https://oshwhub.com/a-ordinary-people/project_lywsnqgn 的开源设计
 ## 📦 镜像下载与使用
 
 请前往本仓库的 [Releases 页面](../../releases) 下载最新编译的系统镜像压缩包。
